@@ -8,8 +8,8 @@ email=Alexzander721@mail.ru
 
 about=Модуль позволяет просматривать фото, привязанные к выделам. Создавать файл привязкам для фото и менять время. А также создать ведомость отсутствующей фотофиксации.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/Alexzander721/ForestryPhotoViewer
+repository=https://github.com/Alexzander721/ForestryPhotoViewer
 # End of mandatory metadata
 
 # Recommended items:
